@@ -1,0 +1,13 @@
+# Ignoring Ide specific settings
+/.idea
+# Ignore Python cache folders
+__pycache__/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env/
